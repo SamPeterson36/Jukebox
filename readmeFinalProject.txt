@@ -1,1 +1,1 @@
-  
+  Instructions : Open MATLAB and bring up the file Jukebox.m. In the command window, type Jukebox and press enter or click the green 'Run' button at the top of the program. This will bring up the graphical user interface. From here, use to your hearts content. Select a song to play, pause the song, change the volume, or adjust the bass and treble. Remember that you need to add money to pay for each song.
